@@ -1,4 +1,5 @@
-// import Styling from "./components/styling";
+import React from "react";
+import styling from "./styling.css";
 
 const Table = ({ sat }) => {
   return (
